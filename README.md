@@ -1,9 +1,9 @@
 
 
-### 🛠️ Build with `wasm-pack build`
+### 🛠️ Build with `pnpm run build`
 
 ```
-wasm-pack build
+pnpm run build
 ```
 
 ### 🔬 Run with `pnpm run dev`
