@@ -1,0 +1,12 @@
+{
+    "name": "rusty-react",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "wasm-pack build --out-dir pkg/react --out-name jsx-dev-runtime"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
